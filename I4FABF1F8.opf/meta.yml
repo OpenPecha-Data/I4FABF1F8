@@ -1,0 +1,25 @@
+id: I4FABF1F8
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-SS-42-1
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  author: མཛད་པ་པོ། རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ།
+  authors: &id001
+  - མཛད་པ་པོ། རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ།
+  sku: RDI-SS-42-1
+  cover: Book-42_Cover_Part-1_Front.jpg
+  volume: {}
+ebook_metadata:
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  authors: *id001
+  sku: RDI-SS-42-1
+  cover: Book-42_Cover_Part-1_Front.jpg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
